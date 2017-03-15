@@ -21,19 +21,7 @@
   <meta name="msapplication-config" content="/img/favicons/browserconfig.xml">
   <meta name="theme-color" content="#0cd563">
   <style>
-    h1 {
-      /*
-      text-shadow: 0 0 10px #fff,
-      0 0 20px #fff,
-      0 0 30px #fff,
-      0 0 40px #ff00de,
-      0 0 70px #ff00de,
-      0 0 80px #ff00de,
-      0 0 100px #ff00de,
-      0 0 150px #ff00de;*/
-      color: #8c8b8b;
-    }
-    hr{
+    h1, hr{
       color: #8c8b8b;
     }
     #loadings {position:absolute;left:calc(50% - 100px);top:calc(50% - 25px);z-index:9999}
