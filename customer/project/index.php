@@ -21,7 +21,21 @@
   <meta name="msapplication-config" content="/img/favicons/browserconfig.xml">
   <meta name="theme-color" content="#0cd563">
   <style>
-    #loading {position:absolute;left:calc(50% - 100px);top:calc(50% - 25px);z-index:9999}
+    h1 {
+      text-shadow: 0 0 10px #fff,
+      0 0 20px #fff,
+      0 0 30px #fff,
+      0 0 40px #ff00de,
+      0 0 70px #ff00de,
+      0 0 80px #ff00de,
+      0 0 100px #ff00de,
+      0 0 150px #ff00de;
+      color: #8c8b8b;
+    }
+    hr{
+      color: #8c8b8b;
+    }
+    #loadings {position:absolute;left:calc(50% - 100px);top:calc(50% - 25px);z-index:9999}
     .uil-ripple {position:absolute;left:calc(50% - 90px);top:calc(50% - 90px);opacity:.5;z-index:999}
 
     .ld-l {opacity:0;animation: ld-in 3s 0.0s ease infinite;}
@@ -54,8 +68,10 @@
 </head>
 
 <body translate="no" >
+  <h1>Version Upload:</h1>
+  <hr>
 
-  <svg id="loading">
+  <svg id="loadings">
     <g>
       <path class="ld-l" fill="#39C0C4" d="M43.6,33.2h9.2V35H41.6V15.2h2V33.2z"/>
       <path class="ld-o" fill="#39C0C4" d="M74.7,25.1c0,1.5-0.3,2.9-0.8,4.2c-0.5,1.3-1.2,2.4-2.2,3.3c-0.9,0.9-2,1.6-3.3,2.2
@@ -80,7 +96,7 @@
     </g>
   </svg>
   <svg width='182px' height='182px' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="uil-ripple"><rect x="0" y="0" width="100" height="100" fill="none" class="bk"></rect><g> <animate attributeName="opacity" dur="4s" repeatCount="indefinite" begin="0s" keyTimes="0;0.33;1" values="1;1;0"></animate><circle cx="50" cy="50" r="40" stroke="#eeeeee" fill="none" stroke-width="2" stroke-linecap="round"><animate attributeName="r" dur="4s" repeatCount="indefinite" begin="0s" keyTimes="0;0.33;1" values="0;22;44"></animate></circle></g><g><animate attributeName="opacity" dur="4s" repeatCount="indefinite" begin="2s" keyTimes="0;0.33;1" values="1;1;0"></animate><circle cx="50" cy="50" r="40" stroke="#eeeeee" fill="none" stroke-width="2" stroke-linecap="round"><animate attributeName="r" dur="4s" repeatCount="indefinite" begin="2s" keyTimes="0;0.33;1" values="0;22;44"></animate></circle></g></svg>
-  <script src="//production-assets.codepen.io/assets/common/stopExecutionOnTimeout-b2a7b3fe212eaa732349046d8416e00a9dec26eb7fd347590fbced3ab38af52e.js"></script>
+  <script src="//production-assets.codepen.io/assets/common/stopExecutionOnTimeout-b2a7b3fe212eaa732349046d8416e00a9dec26eb7fd347590fbced3ab38af52e.jss"></script>
   <script>
    /*    CSS / SMIL    */
   //# sourceURL=pen.js
