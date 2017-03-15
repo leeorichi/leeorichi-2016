@@ -57,7 +57,7 @@
 </head>
 
 <body translate="no" >
-  <h1>Version Upload:</h1>
+  <h1>Checking Version Update:</h1>
   <hr>
 
   <svg id="loadings">
