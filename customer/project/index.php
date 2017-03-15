@@ -85,7 +85,8 @@
 <body translate="no" >
 
   <div class="loader">
-    <span>{</span> Checking Update...<span>}</span>
+    <span>{</span><span>}</span>
   </div>
+  <center>Checking Update...</center>>
 </body>
 </html>
