@@ -47,7 +47,9 @@
 			}
 		</style>
 	</head>
+	<body>
 	<div class="loader">
 		<span>{</span><span>}</span>
 	</div>	
+	</body>
 </html>
