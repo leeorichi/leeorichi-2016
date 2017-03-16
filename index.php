@@ -144,7 +144,7 @@
 						<p class="para"><span class="highlight">My Name:</span> Leeorichi</p>
 						<p class="para"><span class="highlight">Nationality:</span> VIETNAM</p>
 						<p class="para"><span class="highlight">Date Of Birth:</span> 01-01-1991</p>
-						<p class="para"><span class="highlight">E-mail:</span> <a href="mailto:beatvn01@gmail.com">beatvn01@gmail.com</a></p>
+						<p class="para"><span class="highlight">E-mail Primary:</span> <a href="mailto:system@leeorichi.net">system@leeorichi.net</a></p><p class="para"><span class="highlight">E-mail:</span> <a href="mailto:beatvn01@gmail.com">beatvn01@gmail.com</a></p>
 						<p class="para"><span class="highlight">Website:</span> <a href="#">www.leeorichi.net</a></p>
 						<p class="para"><span class="highlight">My Phone:</span> <a href="tel:00201120211112">+84 961 36 26 96</a></p>
 						<p class="para"><span class="highlight">My Hobbies:</span> Football, Movies, Video Games, Music</p>
