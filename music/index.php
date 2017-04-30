@@ -9,11 +9,10 @@
 		<link rel="stylesheet" type="text/css" href="css/main.css">
 		<!-- Favicons Links -->
 		<link rel="apple-touch-icon" sizes="180x180" href="img/logos/llogo.png">
-		<link rel="icon" type="image/png" href="img/logos/llogo.png" sizes="32x32">
-		<link rel="icon" type="image/png" href="img/logos/llogo.png" sizes="16x16">
-		<link rel="shortcut icon" href="img/logos/llogo.png">
+		<link rel="icon" type="image/png" href="/img/logos/llogo.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="/img/logos/llogo.png" sizes="16x16">
+		<link rel="shortcut icon" href="/img/logos/llogo.png">
 		<meta name="theme-color" content="#0cd563">
-		<link rel="stylesheet" type="text/css" href="css/main.css">
 	</head>
 	
 	<body>
