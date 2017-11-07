@@ -25,7 +25,7 @@
 				$this->wLog();
 				break;
 			}
-			echo "<style>img { width: 100%; height: auto;} </style> <center><img src='{$this->pic}' /></center>";
+			echo "<style>img { width: 100%; height: 100%;} </style> <center><img src='{$this->pic}' /></center>";
 		}
 		
 		
