@@ -25,11 +25,11 @@
 				$this->wLog();
 				break;
 			}
-			echo "<style>img { width: 100%; height: 100%;} </style> <center><img src='{$this->pic}' /></center>";
+			echo "<style>img { width: auto; height: 100%;} </style> <center><img src='{$this->pic}' /></center>";
 		}
 		
 		
 	}	
 	
 	$runrun = new niceGirl;
-	$runrun->showxx();
+$runrun->showxx();
